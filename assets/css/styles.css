@@ -1,0 +1,51 @@
+.navbar-expand-md .navbar-nav {
+}
+
+#cu-div {
+  text-align: center;
+  padding: 100px;
+  background: url(../../assets/img/cu-bg01.jpg) no-repeat;
+  background-size: cover;
+}
+
+#cu-navbarStyle {
+  background-color: #1cade9;
+}
+
+#cu-div .jumbotron {
+  border-radius: 20px;
+  padding: 60px;
+  background-color: rgba(255,255,255,0.25);
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+@media (min-width: 768px) {
+  #cu-div .jumbotron {
+    padding: 100px;
+  }
+}
+
+# promo {
+  padding: 100px;
+}
+
+#cu-conColor {
+  background: #1cade9;
+}
+
+.cu-PSConStyle {
+  text-align: center;
+  padding: 60px 0;
+}
+
+.cu-PSConStyle p {
+  max-width: 800px;
+  font-size: 20px;
+  margin: 0 auto;
+}
+
+.cu-StyleForPS {
+  width: 500px;
+}
+
